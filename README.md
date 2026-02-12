@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rostom Gherabli</h1>
-<h3 align="center">🚀 Passionate Mobile Developer & AI Enthusiast from Algeria</h3>
+<h3 align="center"> Passionate Mobile Developer & AI Enthusiast from Algeria</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rostomgh&label=Profile%20views&color=0e75b6&style=flat" alt="rostomgh" />
