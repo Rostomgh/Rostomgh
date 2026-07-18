@@ -61,7 +61,7 @@
 
 #### 📱 Mobile & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,react,redux" alt="mobile-frontend" />
+  <img src="https://skillicons.dev/icons?i=flutter,react" alt="mobile-frontend" />
 </p>
 
 #### 🤖 AI / Machine Learning
